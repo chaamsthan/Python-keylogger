@@ -1,4 +1,4 @@
-# Keylogger (Dự án nghiên cứu — **Chỉ dùng cho mục đích học tập**)
+# Keylogger (**dùng cho mục đích học tập**)
 
 ## Giới thiệu
 Đây là project em làm để **tìm hiểu rõ hơn về cơ chế hoạt động của mã độc keylogger**.  
